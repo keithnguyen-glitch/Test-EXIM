@@ -1,0 +1,7 @@
+PySide6==6.7.0
+pandas==2.2.2
+playwright==1.44.0
+markitdown==1.0.0
+matplotlib==3.8.4
+openpyxl==3.1.2
+PyMuPDF==1.24.4
